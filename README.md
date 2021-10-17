@@ -6,7 +6,7 @@
 
 This cool automatic blog will be hosted by GitHub at:
 https://yogyamodi.github.io/starter-blog/
-
+Cool stuff
 # My Blog
 
 
